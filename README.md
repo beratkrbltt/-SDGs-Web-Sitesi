@@ -1,5 +1,4 @@
-# sdgs.github.io
-Sürdürülebilir Kalkınma Amaçları (SDGs) Web Sitesi
+# Sürdürülebilir Kalkınma Amaçları (SDGs) Web Sitesi
 Bu proje, Birleşmiş Milletler'in Sürdürülebilir Kalkınma Amaçları'nı (SDGs) topluma daha iyi tanıtmak ve bu hedefler hakkında bilgi vermek amacıyla geliştirilmiş bir web sitesidir. Web sitesi, sürdürülebilir kalkınma konusunda bilinç oluşturmayı, toplumu bilgilendirmeyi ve bu hedefler doğrultusunda bireysel ve toplumsal farkındalığı artırmayı amaçlamaktadır.
 
 Proje Özeti
